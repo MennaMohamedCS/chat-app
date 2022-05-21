@@ -1,4 +1,8 @@
 # chat-app
+## Deployment
+```
+https://chatting-app0.herokuapp.com/
+```
 # This application built using :
 ```
 Node.js.
